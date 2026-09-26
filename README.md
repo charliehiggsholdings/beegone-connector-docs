@@ -30,8 +30,9 @@ assistant. Bees are relocated alive wherever possible — never exterminated.
 - **Bumblebees are not legally protected, but a nest is usually best left alone.** The
   connector gives advice for living alongside a temporary nest, which dies out on its own within
   a few months. If a nest genuinely can't stay (by a doorway, where children play, or near
-  someone with a sting allergy), BeeGone can move it, from £125: your assistant can file the
-  request, and BeeGone calls you back to arrange it.
+  someone with a sting allergy), BeeGone can move it: from £125 to move a bumblebee nest; nests
+  inside walls, lofts or needing access work are quoted after a survey. Your assistant can file
+  the request, and BeeGone calls you back to arrange it.
 - Nothing is charged online and no card details are ever requested through the assistant.
 - The connector never signs you up to marketing.
 - Data handling: your answers, postcode and (only when you request a visit) your contact
