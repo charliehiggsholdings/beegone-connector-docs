@@ -1,7 +1,7 @@
 # BeeGone — Claude Connector
 
 Get instant bee-removal quotes and request visits from **BeeGone**, the UK's live honey bee
-removal specialists (est. 2008, 10,000+ removals, fully insured), directly from your AI
+removal specialists (est. 2008, 5,000+ colonies saved, fully insured), directly from your AI
 assistant. Bees are relocated alive wherever possible — never exterminated.
 
 **Connector URL:** `https://beegone-agent-mcp.charlie-4be.workers.dev/mcp`
