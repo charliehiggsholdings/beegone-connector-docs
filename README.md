@@ -1,7 +1,7 @@
 # BeeGone — Claude Connector
 
 Get instant bee-removal quotes and request visits from **BeeGone**, the UK's live honey bee
-removal specialists (est. 2008, 10,000+ removals, fully insured), directly from your AI
+removal specialists (est. 2008, 5,000+ colonies saved, fully insured), directly from your AI
 assistant. Bees are relocated alive wherever possible — never exterminated.
 
 **Connector URL:** `https://beegone-agent-mcp.charlie-4be.workers.dev/mcp`
@@ -27,8 +27,12 @@ assistant. Bees are relocated alive wherever possible — never exterminated.
 
 ## Important notes
 
-- **Bumblebees are protected.** They are not removed; the connector provides advice for
-  living alongside a temporary nest instead.
+- **Bumblebees are not legally protected, but a nest is usually best left alone.** The
+  connector gives advice for living alongside a temporary nest, which dies out on its own within
+  a few months. If a nest genuinely can't stay (by a doorway, where children play, or near
+  someone with a sting allergy), BeeGone can move it: from £125 to move a bumblebee nest; nests
+  inside walls, lofts or needing access work are quoted after a survey. Your assistant can file
+  the request, and BeeGone calls you back to arrange it.
 - Nothing is charged online and no card details are ever requested through the assistant.
 - The connector never signs you up to marketing.
 - Data handling: your answers, postcode and (only when you request a visit) your contact
